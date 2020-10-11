@@ -1,1 +1,4 @@
-# orderbook_challenge
+# How to run tests
+```
+npm run test
+```
